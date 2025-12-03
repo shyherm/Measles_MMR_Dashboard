@@ -1,0 +1,9 @@
+ipywidgets
+pandas
+numpy
+matplotlib
+requests
+time
+json
+voila
+APIwrapper
