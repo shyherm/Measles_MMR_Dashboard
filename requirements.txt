@@ -1,6 +1,7 @@
 ipywidgets
 pandas
 numpy
+plotly
 matplotlib
 requests
 voila
