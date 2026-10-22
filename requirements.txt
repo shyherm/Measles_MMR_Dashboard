@@ -1,7 +1,7 @@
-ipywidgets
-ipympl
+ipympl>=0.9.3
+ipywidgets>=8
 mplcursors
+voila
+matplotlib
 pandas
 numpy
-matplotlib
-voila
