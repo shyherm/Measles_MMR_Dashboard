@@ -1,6 +1,7 @@
 ipywidgets
+ipympl
+mplcursors
 pandas
 numpy
 matplotlib
-requests
 voila
